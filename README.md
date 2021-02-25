@@ -35,7 +35,7 @@
 
    ```console
    sh-4.2$ cd Sagemaker
-   sh-4.2$ git clone https://github.com/vicrojo/textract-preprocessor
+   sh-4.2$ git clone https://github.com/aws-samples/textract-visual-removal.git
    ```
 
 # Code Samples Review
